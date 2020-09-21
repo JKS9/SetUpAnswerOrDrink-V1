@@ -1,0 +1,45 @@
+
+Nombre de question par catégories : 
+
+// 74 questions avec la catégorie "Société"
+
+// 82 questions avec la catégorie "Cultures"
+
+// 71 questions avec la catégorie "Nature"
+
+// 66 questions avec la catégorie "Politiques"
+
+
+Nombre de question par niveau : 
+
+// 93 question sur le niveau "Easy"
+
+// 102 question sur le niveau "Medium"
+
+// 96 question sur le niveau "Hard"
+
+
+OBJECTIF NOMBRE DE QUESTION :
+
+Easy : 50 Questions "PAR" catégorie (Politiques, Nature, Cultures, Société) = 200 questions
+
+Medium : 50 Questions "PAR" catégorie (Politiques, Nature, Cultures, Société) = 200 questions
+
+Hard : 50 Questions "PAR" catégorie (Politiques, Nature, Cultures, Société) = 200 questions
+
+====== 620 questions au Total
+
+
+
+vérifier les nom des cons si il ne sont pas des marques pour des questions des droits d'auteurs
+
+trouvée un moyen de close l'app sur IOS si l'user refuse la condition
+
+
+- trouver un moyen de fermer l'app sous IOS 
+- android key à mettre dans une variable (évité de le mettre en dur)
+- connaitre le nombre de question par level + catégories
+- ajouter des questions
+
+- faire une version IOS
+- publier sur les store 'android' 'apple'
