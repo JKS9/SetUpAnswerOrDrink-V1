@@ -8,4 +8,4 @@ It will soon be available on the stores
 
 ---
 
-![alt text](https://github.com/JKS9/SetUpAnswerOrDrink/tree/master/src/asset/images/screen/home.png)
+![sreen home](https://github.com/JKS9/SetUpAnswerOrDrink/tree/master/src/asset/images/screen/home.png)
